@@ -21,7 +21,7 @@ pip3 install -r requirements.txt  # install
 git submodule add https://github.com/HarunoWindy/yolo-games-weights.git game-weights
 ```
 
-_already YOLOv5 & YOLO-Games-Weights installed?_
+_Already YOLOv5 & YOLO-Games-Weights installed?_
 
 _已经安装了YOLOv5和YOLO-Games-Weights？_
 
@@ -93,3 +93,8 @@ https://pan.baidu.com/s/1lXsEhPW_6Y5ILbEaQpGHCA?pwd=q217
 - [PyTorch](https://pytorch.org/)
 
 
+
+## Label Class Table 标签类别对照表
+
+
+- [Onmyoji Label Table 阴阳师标签表](./onmyoji/classLabel.md)
