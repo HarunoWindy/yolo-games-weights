@@ -161,6 +161,10 @@
 
   battle-preset	预设
 
+  battle-challenge-active	挑战按钮（进入战斗）可点击
+
+  battle-challenge-disabled 挑战按钮 灰色不可点击
+
 
 - **Mail 邮件**
 
